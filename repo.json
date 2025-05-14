@@ -1,0 +1,8 @@
+{
+    "name": "Repositorio Latino",
+    "description": "Prueba de paginas latinas",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://codeberg.org/cloudstream/cloudstream-extensions-multilingual/raw/branch/builds/plugins.json"
+    ]
+}
